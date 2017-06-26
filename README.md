@@ -13,21 +13,13 @@ To ensure that we have time to get into everyone's problems, please take a momen
 
 Office hours will alternate between locations convenient to the three universities, though people from any university are welcome any week. They will be held on Tuesday afternoons from 2-4pm throughout the summer. The format will evolve as we try this out.
 
-Be sure to check back here as the location of the office hours may change. (Stanford location will soon move to the Biohub footprint in the Lokey Stem Cell building.)
+Be sure to check back here as the location of the office hours may change.
 
-Calendar:
+If you have any questions, please reach out to joshua.batson@czbiohub.org.
+
+### Calendar
 
 <iframe src="https://calendar.google.com/calendar/embed?showPrint=0&amp;mode=AGENDA&amp;height=400&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=czbiohub.org_8ovnkke769i8pidhsblal9vp9k%40group.calendar.google.com&amp;color=%23711616&amp;ctz=America%2FLos_Angeles" style="border-width:0" width="600" height="400" frameborder="0" scrolling="no"></iframe>
 
-Biohub/UCSF -- 1st and 3rd Tuesdays (6/20, 7/18, 8/1, 8/15)
-* 499 Illinois Ave, San Francisco
-
-Stanford -- 2nd Tuesdays (6/13, 7/11, 8/8)
-* CZI Offices, 555 University Ave, Palo Alto
-
-Berkeley -- 4th Tuesdays (6/27, 7/25, 8/22)
-* Stanley Hall Room 521
-
-If you have any questions, please reach out to joshua.batson@czbiohub.org.
 
 
