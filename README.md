@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## Data Science Office Hours
 
-You can use the [editor on GitHub](https://github.com/czbiohub/office-hours/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The data science team at Biohub is hosting weekly office hours. Investigators and members of their labs can come to discuss issues in data science and software engineering. Members of the data science platform at Biohub and CZI software engineers will be available to answer questions such as:
+ 
+* My code seems slow. How do I make it faster?
+* Is there a good algorithm or approach for this problem out there already?
+* How do I model the uncertainty in this experiment?
+* Does it make sense to do this computation in the cloud? How would I get started?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We have found it most effective when people come with a concrete problem, a specific dataset, or part of the pipeline to think about. Some answers may be quick and some may produce longer collaborations. Sometimes it can be helpful just to talk through the problem you've been heads-down on with some people with a different perspective. To ensure that we have time to get into everyone's problems, please take a moment to fill out our [scheduling form](https://docs.google.com/forms/d/e/1FAIpQLSfc6qhlBGwnVEgfDNdePSZRBco0M-_V6jnl71Ool262xOsiSw/viewform?usp=sf_link).
 
-### Markdown
+Office hours will alternate between locations convenient to the three universities, though people from any university are welcome any week. They will be held on Tuesday afternoons from 2-4pm throughout the summer. The format will evolve as we try this out.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Be sure to check back here as the location of the office hours may change. (Stanford location will soon move to the Biohub footprint in the Lokey Stem Cell building.)
 
-```markdown
-Syntax highlighted code block
+Schedule:
 
-# Header 1
-## Header 2
-### Header 3
+Biohub/UCSF -- 1st and 3rd Tuesdays (6/20, 7/18, 8/1, 8/15)
+* 499 Illinois Ave, San Francisco
 
-- Bulleted
-- List
+Stanford -- 2nd Tuesdays (6/13, 7/11, 8/8)
+* CZI Offices, 555 University Ave, Palo Alto
 
-1. Numbered
-2. List
+Berkeley -- 4th Tuesdays (6/27, 7/25, 8/22)
+* Stanley Hall Room 521
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/czbiohub/office-hours/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you have any questions, please reach out to joshua.batson@czbiohub.org.
