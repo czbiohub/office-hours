@@ -1,6 +1,6 @@
 ## Data Science Office Hours
 
-The data science team at Biohub is hosting weekly office hours. Investigators and members of their labs can come to discuss issues in data science and software engineering. Members of the data science platform at Biohub and CZI software engineers will be available to answer questions such as:
+The data science team at Biohub is hosting weekly office hours. Investigators and members of their labs are invited to make an appointment to discuss issues in data science and software engineering. Members of the data science platform at Biohub and CZI software engineers are available to help with questions such as:
  
 * My code seems slow. How do I make it faster?
 * Is there a good algorithm or approach for this problem out there already?
@@ -9,9 +9,9 @@ The data science team at Biohub is hosting weekly office hours. Investigators an
 
 We have found it most effective when people come with a concrete problem, a specific dataset, or part of the pipeline to think about. A few (2-3) slides or figures can help us get a feel for the texture/scale of the problem and scope the discussion.  Some answers may be quick, some may produce longer collaborations, and sometimes it can be helpful just to talk through the problem you've been heads-down on with some people with a different perspective.
 
-To ensure that we have time to get into everyone's problems, please take a moment to fill out our [scheduling form](https://docs.google.com/forms/d/e/1FAIpQLSfc6qhlBGwnVEgfDNdePSZRBco0M-_V6jnl71Ool262xOsiSw/viewform?usp=sf_link).
+To ensure that we have time to get into your question and the best person to answer it, we ask that you make sign up for a time slot in advance and tell us a bit about what you'd like to discuss. Please do so in the [scheduling form](https://docs.google.com/forms/d/e/1FAIpQLSfc6qhlBGwnVEgfDNdePSZRBco0M-_V6jnl71Ool262xOsiSw/viewform?usp=sf_link).
 
-Office hours will alternate between locations convenient to the three universities, though people from any university are welcome any week. They will be held on Tuesday afternoons from 2-4pm throughout the summer. The format will evolve as we try this out.
+Office hours will alternate between locations convenient to the three universities, though people from any university are welcome any week. They will be held on Tuesday afternoons from 1-3pm throughout the Fall semester.
 
 Be sure to check back here as the location of the office hours may change.
 
